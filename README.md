@@ -2,6 +2,20 @@
 
 *Direct. Untouched. Synced. Kept.*
 
+## Install in 3 steps (Android)
+
+1. **Download:** open this on your phone and tap the `.apk` under *Assets*: **[Download Demilune](https://github.com/ilvy23/demilune/releases/latest)**
+   (direct file: [demilune-full-14.apk](https://github.com/ilvy23/demilune/releases/download/full-v14/demilune-full-14.apk))
+2. **Install:** open the downloaded file. If Android says it is blocked, tap **Settings**, switch on **Allow from this source**, go back, tap **Install**.
+   (If Google Play Protect warns you: **More details › Install anyway**.)
+3. **Open Demilune**, tap **Choose music folder**, pick your music folder and **Use this folder**. Done. It updates itself from now on.
+
+> **Something annoying, confusing or not working? Please tell me.**
+> Open an [**issue**](https://github.com/ilvy23/demilune/issues/new/choose) for bugs, or start a [**discussion**](https://github.com/ilvy23/demilune/discussions) for questions and ideas.
+> Include your phone, Android version and, for sound problems, the USB or Bluetooth device. Every report helps.
+
+Details and troubleshooting are in the [full install guide](#install-guide) below.
+
 **A music player for people who still keep their own files.**
 No streaming, no account, no ads, nothing uploaded. You point it at your folders and it plays your library
 the way you would want it played: untouched on the way to your DAC, with lyrics that follow every word,
