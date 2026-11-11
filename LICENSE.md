@@ -1,15 +1,15 @@
-# Dusk Player licence
+# Demilune licence
 
 Copyright (c) 2026 Ilvy (GitHub: ilvy23). All rights reserved, except as granted below.
 
 ## What you may do
 
-1. **Use** Dusk Player free of charge, for personal and non-commercial purposes.
+1. **Use** Demilune free of charge, for personal and non-commercial purposes.
 2. **Redistribute** the **unmodified** application package (APK) exactly as published in
-   https://github.com/ilvy23/dusk-releases, free of charge, provided that you:
+   https://github.com/ilvy23/demilune, free of charge, provided that you:
    - keep this licence and the copyright notice with it,
-   - credit the author ("Dusk Player by Ilvy (ilvy23)"), and
-   - link to https://github.com/ilvy23/dusk-releases.
+   - credit the author ("Demilune by Ilvy (ilvy23)"), and
+   - link to https://github.com/ilvy23/demilune.
 
 ## What you may not do
 
@@ -30,4 +30,4 @@ The application is provided "as is", without warranty of any kind. To the maximu
 is not liable for any damage arising from its use, including data loss or hearing damage from listening at high volume.
 Please listen at sensible volumes.
 
-*Dusk Player is an independent project and is not affiliated with or endorsed by Moondrop or any other manufacturer.*
+*Demilune is an independent project and is not affiliated with or endorsed by Moondrop or any other manufacturer.*
